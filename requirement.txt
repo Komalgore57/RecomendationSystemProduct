@@ -1,4 +1,4 @@
-stremlir
+streamlit
 nltk
 pandas
 scikit-learn
